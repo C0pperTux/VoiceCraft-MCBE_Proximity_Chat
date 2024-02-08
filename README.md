@@ -13,4 +13,4 @@ Please refer to the [wiki](https://github.com/SineVector241/VoiceCraft-MCBE_Prox
 ## Discord Server
 [![Discord Shield](https://discordapp.com/api/guilds/847396393068265472/widget.png?style=shield)](https://discord.gg/fJGsRY5hh9)
 
-##logger Not tested
+## logger Not tested
